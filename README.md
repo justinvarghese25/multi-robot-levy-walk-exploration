@@ -79,7 +79,7 @@ Running the simulation will display:
 * Maintained **collision-free navigation** throughout the simulation.
 * Generated a **merged occupancy map** with detected object locations.
 
-![Simulation Results](images/results.png)
+![Simulation Results](data/Final Map.png)
 
 ---
 
